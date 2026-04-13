@@ -1,6 +1,3 @@
-# tryhackme-writeups
-Write-ups TryHackMe - Cybersécurité (Pentest / Blue Team)
-
 # 🔐 Cryptosystem Challenge — RSA Fermat Attack
 
 ## 📌 Description
